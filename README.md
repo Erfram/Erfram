@@ -12,7 +12,7 @@
 <br/>
 
 <h1 align="center">About me</h1>
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp6NmJjeTVrbnp5MHR4Zm05NHllcTUzNGdoNmZwaWUyc2I4bzdxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4wNm8zODJpZGRhb3N2YjNnenI5N3RlcTY5dnY4OGE5MXU1ZWFhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
 
 - ❤️ I love programming.
 - ☕ I love Java

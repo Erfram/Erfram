@@ -35,5 +35,6 @@
 - 🥭 MongoDB
 
 <h1 align="center">I plan to study the technology stack</h1>
+
 - 🫖 Kotlin
 - 🫳 Flutter
